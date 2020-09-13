@@ -1,2 +1,2 @@
 # hello-word
-this
+This is the hello word tutorial/lab for csc 154
